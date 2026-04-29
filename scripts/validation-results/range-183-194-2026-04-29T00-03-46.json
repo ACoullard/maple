@@ -1,0 +1,554 @@
+{
+  "minCourt": 183,
+  "maxCourt": 194,
+  "timestamp": "2026-04-29T00:21:23.191Z",
+  "billSamples": 30,
+  "memberSamples": 30,
+  "courts": {
+    "183": {
+      "overall": "⚠",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-183-2026-04-29T00-03-46.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-183-2026-04-29T00-03-46.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 9,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 0,
+          "errorCount": 0,
+          "fieldIssues": [
+            "Title",
+            "Pinslip",
+            "PrimarySponsor",
+            "Cosponsors",
+            "LegislationTypeName",
+            "CommitteeRecommendations",
+            "Amendments"
+          ],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 0,
+          "errorCount": 0,
+          "fieldIssues": [
+            "Date",
+            "Branch",
+            "Action"
+          ],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 267,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 46,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "184": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-184-2026-04-29T00-03-53.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-184-2026-04-29T00-03-53.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 2,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 1,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 1,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 555,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": [
+            "4 sessions have EventDate outside expected range 2005–2006",
+            "  EventId=4612 EventDate=2003-07-19T13:00:00 (expected 2005–2006)",
+            "  EventId=6760 EventDate=2003-07-19T13:00:00 (expected 2005–2006)",
+            "  EventId=4816 EventDate=1973-02-24T11:04:00 (expected 2005–2006)"
+          ]
+        },
+        "Committees": {
+          "sampleSize": 45,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "185": {
+      "overall": "✗",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-185-2026-04-29T00-04-05.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-185-2026-04-29T00-04-05.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 3,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 3,
+          "errorCount": 3,
+          "fieldIssues": [
+            "Title",
+            "Pinslip",
+            "PrimarySponsor",
+            "Cosponsors",
+            "LegislationTypeName",
+            "CommitteeRecommendations",
+            "Amendments"
+          ],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 3,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 1,
+          "fieldIssues": [
+            "Name"
+          ],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 268,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 41,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "186": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-186-2026-04-29T00-04-12.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-186-2026-04-29T00-04-12.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 285,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 43,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "187": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-187-2026-04-29T00-04-42.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-187-2026-04-29T00-04-42.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 512,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 44,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "188": {
+      "overall": "⚠",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-188-2026-04-29T00-06-56.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-188-2026-04-29T00-06-56.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [
+            "Title"
+          ],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 525,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 44,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "189": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-189-2026-04-29T00-08-14.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-189-2026-04-29T00-08-14.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 505,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 51,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "190": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-190-2026-04-29T00-09-31.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-190-2026-04-29T00-09-31.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 517,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 57,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "191": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-191-2026-04-29T00-12-06.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-191-2026-04-29T00-12-06.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 524,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 51,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "192": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-192-2026-04-29T00-15-12.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-192-2026-04-29T00-15-12.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 486,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 55,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "193": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-193-2026-04-29T00-18-23.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-193-2026-04-29T00-18-23.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 467,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 56,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    },
+    "194": {
+      "overall": "✓",
+      "mdPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-194-2026-04-29T00-20-18.md",
+      "jsonPath": "/home/andre/programming_projects/maple/scripts/validation-results/court-194-2026-04-29T00-20-18.json",
+      "resources": {
+        "Bill listing": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill documents": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Bill history": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Members": {
+          "sampleSize": 30,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Sessions": {
+          "sampleSize": 318,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        },
+        "Committees": {
+          "sampleSize": 57,
+          "errorCount": 0,
+          "fieldIssues": [],
+          "notes": []
+        }
+      }
+    }
+  }
+}
